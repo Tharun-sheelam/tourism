@@ -1,0 +1,22 @@
+.h-center{
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-photo/beautiful-tropical-empty-beach-sea-ocean-with-white-cloud-blue-sky-background_74190-13668.jpg?t=st=1716655230~exp=1716658830~hmac=3d61d8a7f4d661777269a735c847393223f34fe150500e2a57a269e69bddd6af&w=360");
+    height: 100vh;
+    background-size: cover;
+}
+.heading{    
+    color:blue;
+}
+.paragraph{
+    color:gray;
+}
+.button{
+    background-color:lightblue;
+    border-radius: 25px;
+}
+.box{
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+}
